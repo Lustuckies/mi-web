@@ -1,0 +1,129 @@
+.fototurquezafondo {
+    position: absolute;
+    width: "100%"; 
+    height: "150px";
+}
+
+.fotoperfil {
+    padding: 10px;
+    position: relative;
+    width: "50px";
+}
+
+
+.container.opciones {
+    position: initial;
+}
+
+.container-fluid {
+    position: relative;
+}
+
+.row-selection {
+    text-align: center;
+    padding: 20px;
+    color: #e51070;
+}
+
+.clasesdisponibles {
+    text-align: center;
+}
+
+.informationcontactindex {
+    color: #000000;
+    font-size: small;
+    font-style: oblique;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.fotofondocredits {
+    text-align: center;
+    padding: 10px;
+}
+
+.tarifsprix {
+    text-align: center;
+}
+
+
+.sanscredits {
+    text-align: center;
+    color: #e51070;
+}
+
+.infopayement {
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.achetercredits {
+ text-align: center;
+ vertical-align: middle;
+ padding: 10px;
+ margin-bottom: 20px;
+ color: #30b5a4;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lista {
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.instagramlink {
+    font-size: small;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: 'Raleway'; src: url(/fonts/Raleway-Light.ttf);
+    color: #000000;
+  }
+
+  .resseauxsociaux{
+    font-size: small;
+  }
+
+  .pie {
+    vertical-align: middle;
+    text-align: center;
+    bottom: 0cm;
+    font-size: small;
+
+  }
+
+
+.titulo {
+    font-weight: bold;
+    color: #30b5a4;
+}
+
+.retournerhome {
+    color: #e51070;
+    font-size: large;
+    font-weight: bold;
+}
+
+.acheterdescredits {
+    color: #e51070;
+    font-size: large;
+    font-weight: bold;
+}
+
+.box {
+    text-align: center;
+    color: #e51070;
+    font-weight: bold;
+}
+
+a {
+    color: rgb(255, 255, 255);
+
+}
+
+a:hover{
+    font-weight: bold;
+    background-color: #ffffff;
+}
